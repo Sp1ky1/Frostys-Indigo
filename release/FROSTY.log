@@ -1,0 +1,50 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Color2.cpp
+  CSX_Cvar.cpp
+  CSX_Log.cpp
+  CSX_Memory.cpp
+  CSX_Utils.cpp
+  Gui.cpp
+  imguicolorpicker.cpp
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  SkinParser.cpp
+  recvproxy.cpp
+  Autowall.cpp
+  Chams.cpp
+  Configuration.cpp
+  DLLMain.cpp
+  EnginePrediction.cpp
+  ESP.cpp
+  Global.cpp
+  GrenadePrediction.cpp
+  Hooks.cpp
+  Interfaces.cpp
+  LagComp.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  memesets.cpp
+  Misc.cpp
+  NetVarManager.cpp
+  RageBot.cpp
+  Render.cpp
+  Resolver2.cpp
+  SkinChanger.cpp
+  SpoofedConvar.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\algorithm(1443): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data (compiling source file Hooks.cpp)
+  c:\users\sp1ky\desktop\pz_csgo_cheat-master\interface.h(197): note: see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,wint_t(__cdecl *)(wint_t)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Ty=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=wint_t (__cdecl *)(wint_t)
+          ] (compiling source file Hooks.cpp)
+  c:\users\sp1ky\desktop\pz_csgo_cheat-master\sl.h(77): note: see reference to class template instantiation 'XorCompileTime::XorString<14,0>' being compiled (compiling source file Hooks.cpp)
+  MiscFunctions.cpp
+  Vector.cpp
+  Vector4D.cpp
+  VMatrix.cpp
+  VMT.cpp
+  FROSTY.vcxproj -> C:\Users\Sp1Ky\Desktop\PZ_CSGO_CHEAT-master\release\paste.dll
